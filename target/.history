@@ -1,0 +1,39 @@
+sbt
+sbt package
+updateSbtClassifiers
+sbt
+products
+sbt
+complile
+sbt clean
+clean
+compile
+run
+runMain
+compile
+console
+sbt package
+project
+plugins
+console
+sbt comile
+sbt package
+package
+exit
+compile
+run
+exit
+compile
+run a b
+run mushrooms.csv b c
+compile
+package
+run mushrooms.csv b c
+run --master local mushrooms.csv b c
+package
+run mushrooms.csv b c
+exit
+run --master "local"
+exit
+package
+exit
